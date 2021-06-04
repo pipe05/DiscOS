@@ -1,4 +1,5 @@
 # DiscOS
+- ! Can only run on a Raspberry Pi !
 # About
 - Command Line OS
 - Written in Python 3
